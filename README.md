@@ -1,4 +1,4 @@
-# engenharia_de_prompt_aplicacoes_ai_2
+# engenharia_de_prompt_aplicacoes_ai_2 - Unidade 3 
 
 Atividades da faculdade Este repositório é para o curso de engenharia de software na disciplina de prototipagem e aplicações em IA
 
